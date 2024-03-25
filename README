@@ -1,0 +1,7 @@
+Project Name: Rust examples
+
+Descritpion:
+The project contains several rust examples for different topics in rust. In the "main.rs" file, you fill find instructions for calling each of the different modules. To run the code in a specifc file, in the terminal, you writte " cargo run [file name]. For example, if you want tot run the code in the arrays file, you will type "cargo run arrays".Each module is a file that covers a specifc rust topic. In each file, you will find 10 examples with inline documentation explaining them.
+
+License:
+MIT
